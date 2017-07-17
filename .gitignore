@@ -8,3 +8,8 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+
+# Input Folder
+input/
+output/
+
